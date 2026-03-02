@@ -321,6 +321,7 @@
   "caplaz/home-assistant-controllable",
   "caplaz/home-assistant-sfpuc",
   "caplaz/micro-weather-station",
+  "CaputoDavide93/Mixergy_HomeAssistant_Integration",
   "cardouken/homeassistant-unifi-unas",
   "carohauta/oma-helen-ha-integration",
   "caronc/ha-ultrasync",
@@ -2124,3 +2125,4 @@
   "zupancicmarko/JellyHA",
   "Zwer2k/ha-pca301"
 ]
+
